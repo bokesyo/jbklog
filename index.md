@@ -3,6 +3,7 @@ layout: default
 title: Hello
 ---
 
+Hi there!
 
 ## An easy to use, minimal, text focused Jekyll theme
 
